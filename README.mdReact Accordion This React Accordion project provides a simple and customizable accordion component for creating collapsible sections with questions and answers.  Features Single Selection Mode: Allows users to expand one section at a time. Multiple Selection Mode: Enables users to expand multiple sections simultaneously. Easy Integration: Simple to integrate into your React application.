@@ -1,0 +1,7 @@
+## React Accordion
+This React Accordion project provides a simple and customizable accordion component for creating collapsible sections with questions and answers.
+
+## Features
+Single Selection Mode: Allows users to expand one section at a time.
+Multiple Selection Mode: Enables users to expand multiple sections simultaneously.
+Easy Integration: Simple to integrate into your React application.
